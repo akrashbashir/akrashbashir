@@ -10,7 +10,6 @@ My projects range from **network intrusion simulations using Bettercap** to **SI
 
 ## 📫 How to Reach Me  
 📧 Email: **akrashbashir1@gmail.com**  
-🌐 Portfolio: *(Add your portfolio link here if available)*  
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akrashbashir/)  
 🐙 GitHub: [akrashbashir](https://github.com/akrashbashir)  
 
