@@ -2,7 +2,7 @@
 
 ## 🔐 About Me  
 I am **Akrash Bashir**, a passionate **Cybersecurity Professional** with a strong interest in **SOC Operations, Penetration Testing, Networking, and Software Development**.  
-I have completed my **BS in Cybersecurity** from **Riphah International University Islamabad** and am continuously learning advanced techniques in **penetration testing, SOC operations, secure software design, and AI-driven security systems**.  
+I am student of final year's**BS in Cybersecurity** from **Riphah International University Islamabad** and am continuously learning advanced techniques in **penetration testing, SOC operations, secure software design, and AI-driven security systems**.  
 
 My projects range from **network intrusion simulations using Bettercap** to **SIEM development** and **AI-powered analytics tools**. I aim to build innovative solutions that bridge **cybersecurity, software engineering, and intelligent automation**.  
 
